@@ -11,7 +11,7 @@ The current makefile specify CPP compiler as g++.exe from mingw32.
 - `make cube`
 This compile the cube rotation example.
 
--`make solar`
+- `make solar`
 This compile the orbit rotation example.
 
 # How export the rendered photo / video
